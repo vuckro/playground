@@ -1,7 +1,0 @@
-:root {
-    @each $grid-type, $col-set in $grids {
-        @each $col-count, $value in $col-set {
-          --grid-#{$col-count}: #{$value};
-        }
-    }
-}

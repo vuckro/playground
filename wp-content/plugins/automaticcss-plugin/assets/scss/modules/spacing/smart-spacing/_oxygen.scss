@@ -1,9 +1,0 @@
-// Oxygen Compatibility
-@if $option-oxygen == on {
-    @if $option-smart-spacing == on {
-        .oxy-rich-text,
-        .oxy-stock-content-styles {
-            @include smart-spacing;
-        }
-    }
-}

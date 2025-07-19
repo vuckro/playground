@@ -1,9 +1,0 @@
-// Load SCSS Powers
-@import "automatic-imports";
-// Add Your Code Below
-
-:root{
-  @media(max-width: 991px){
-    --grid-gap: var(--space-s);
-  }
-}

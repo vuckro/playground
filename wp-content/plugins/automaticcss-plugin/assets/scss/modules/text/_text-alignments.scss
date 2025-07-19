@@ -1,7 +1,0 @@
-@if $option-basic-text-classes == on {
-  @each $alignment, $value in $textAlignments {
-    .text--#{$alignment} {
-      text-align: $value;
-    }
-  }
-}

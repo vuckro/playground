@@ -1,5 +1,0 @@
-:root {
-    @each $size, $value in $sticky {
-        --sticky-#{$size}: #{$value};
-    }
-}

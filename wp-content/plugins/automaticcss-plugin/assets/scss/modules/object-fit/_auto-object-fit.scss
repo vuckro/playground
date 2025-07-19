@@ -1,9 +1,0 @@
-// Object fit images by default
-// Output in reset file
-@if $option-auto-object-fit == on {
-    img {
-      object-fit: var(--object-fit, cover);
-      object-position: var(--object-position, 50% 50%);
-    }
-  }
-  

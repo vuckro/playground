@@ -1,8 +1,0 @@
-@if $option-padding == on {
-    @each $size, $extension in $sizeExtensions {
-        .header--#{$extension} {
-          padding-block: var(--space-#{$extension});
-          padding-inline: var(--gutter);
-        }
-    }
-}

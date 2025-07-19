@@ -1,9 +1,0 @@
-{
-	"$schema": "expansions.schema.json",
-	"label": "JS",
-	"expansions": {
-		"script": {
-			"expandTo": "<script type=\"module\">\n  // Code goes here\n</script>"
-		}
-	}
-}
