@@ -1,0 +1,6 @@
+/* File: automatic-custom-css.css - Version: 3.3.5 - Generated: 2025-07-19 20:09:11 */
+@media (max-width: 991px) {
+  :root {
+    --grid-gap: var(--space-s);
+  }
+}
